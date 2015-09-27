@@ -85,5 +85,5 @@ UIActivityViewController *activityViewController = [[UIActivityViewController al
 ### Logount your Drive account
 
 ````  
-  [[GoogleDriveManager sharedInstance] signoutGoogleDrive];
+[[GoogleDriveManager sharedInstance] signoutGoogleDrive];
 ````
