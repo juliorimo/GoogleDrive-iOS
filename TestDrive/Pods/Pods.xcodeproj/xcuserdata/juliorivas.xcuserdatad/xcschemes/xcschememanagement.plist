@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-Google-API-Client.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-gtm-http-fetcher.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-gtm-oauth2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>3C2C40D4FEC8FFA708D31CDA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7BA238F40CB9D401A14F9B8E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8F934FFDC8D3BEA72962B483</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EE350C1FC7635E24FA75833E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
